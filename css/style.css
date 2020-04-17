@@ -1126,7 +1126,7 @@ ul.social li a::before, ul.social li a::after{
 	margin-top: 15px;
 }
 #navigation.fixed {
-  background-color: #ffffffae;
+  background-color: #fee203de;
   position: fixed;
   -webkit-box-shadow: 0 10px 10px -10px rgba(87, 97, 100, 0.35);
    box-shadow: 0 10px 10px -10px rgba(87, 97, 100, 0.35);
@@ -1233,7 +1233,7 @@ ul.social li a::before, ul.social li a::after{
 }
 /*menu items*/
 .navbar-default .navbar-nav > li > a{
-  color: #fff;
+  color: #6D159B;
   font-size:12px;
   font-weight:600;
   text-transform:lowercase;
@@ -1247,18 +1247,22 @@ ul.social li a::before, ul.social li a::after{
 	padding: 22px 0;
 }
 
+
+/*
+Different color on menu after scrolling, goes here:
+
 .lighttransparent .navbar-default .navbar-nav > li > a,
 .lightheader .navbar-default .navbar-nav > li > a,
 #navigation.fixed .navbar-default .navbar-nav > li > a,
 #navigation.boxednav .navbar-default .navbar-nav > li > a{
     color: #8a8a8a;
-}
+}*/
 .dark #navigation.fixed .navbar-default .navbar-nav > li > a {
     color: #fff;
 }
 .navbar-default .navbar-nav > li > a::before{
     content: "";
-    background: #fff;
+    background: #B2202B;
     height: 3px;
     width: 100%;
     position: absolute;
@@ -1269,11 +1273,15 @@ ul.social li a::before, ul.social li a::after{
     -webkit-transform: scale3d(0.5,1,0.5);
     transform: scale3d(0.5,1,0.5);
 }
+/*
+Diffferent color on scroll, goes here... 
+
 .lighttransparent .navbar-default .navbar-nav > li > a::before,
 .lightheader .navbar-default .navbar-nav > li > a::before,
 #navigation.fixed .navbar-default .navbar-nav > li > a::before{
     background: #bdbdbd;
 }
+*/
 .dark #navigation.fixed .navbar-default .navbar-nav > li > a::before{
     background: #fff;
 }
@@ -1323,7 +1331,7 @@ ul.social li a::before, ul.social li a::after{
 .navbar-default .navbar-nav > .open > a,
 .navbar-default .navbar-nav > .open > a:focus,
 .navbar-default .navbar-nav > .open > a:hover{
-	color:#fff;
+	color:#B2202B;
 }
 .lightheader .navbar-default .navbar-nav > li > a:hover,
 .lightheader .navbar-default .navbar-nav > li > a:focus,
@@ -3530,7 +3538,7 @@ ul.top-right li a:hover.instagram{
    overflow: hidden;
 }
 .item-one{
-   background: url(/images/home-hero-bg.jpg) no-repeat;
+   background-color: #FEE202;
 }
 .item-two{
    background: url(/images/home-marketing-bg.jpg) no-repeat;
