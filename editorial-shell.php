@@ -185,7 +185,7 @@
                         data-paddingtop="[0,0,0,0]"
                         data-paddingright="[0,0,0,0]"
                         data-paddingbottom="[0,0,0,0]"
-                        data-paddingleft="[0,0,0,0]" style="z-index: 19;"><h2 class="darkcolor"><?php echo $criacao." ".$editorial; ?></h2></div>
+                        data-paddingleft="[0,0,0,0]" style="z-index: 19;"><h2 class="darkcolor ccdeep"><?php echo $criacao." ".$editorial; ?></h2></div>
                   <!-- layer nr. 13 -->
                   <div class="tp-caption tp-resizeme"
                         id="layers-elev"
@@ -273,9 +273,9 @@
    <div class="container-fluid container-padding">
       <div class="row">
          <div class="col-md-6 col-sm-3"></div>
-         <div class="col-md-6 col-sm-9 text-right wow fadeInRight">
+         <div class="col-md-6 col-sm-9 text-right wow fadeInRight ccdeep">
             <div class="item-titles wow fadeInLeft">
-               <h2 class="bottom45 ccdeep"><?php echo $criacaodeconteudo; ?></h2>
+               <h2 class="bottom45"><?php echo $criacaodeconteudo; ?></h2>
                <p><?php echo $descricao_txt_criacao_de_conteudo; ?></p>
             </div>
          </div>
@@ -286,10 +286,10 @@
    <section class="padding editorial-bg-2 parallaxie"  id="editorialhome">
    <div class="container-fluid container-padding">
       <div class="row">
-         <div class="col-md-6 col-sm-9 text-left wow fadeInRight">
+         <div class="col-md-6 col-sm-9 text-left wow fadeInRight ccdeep">
             <div class="item-titles wow fadeInLeft">
-               <h2 class="bottom45 cc-light"><?php echo $adaptacaodeconteudo; ?></h2>
-               <p class="cc-light"><?php echo $descricao_txt_adaptacao_de_conteudo; ?></p>
+               <h2 class="bottom45"><?php echo $adaptacaodeconteudo; ?></h2>
+               <p><?php echo $descricao_txt_adaptacao_de_conteudo; ?></p>
             </div>
          </div>
       </div>

@@ -286,11 +286,11 @@
 	<div class="container-fluid container-padding">
 		<div class="row">
 			<div class="col-md-6 col-sm-3"></div>
-			<div class="col-md-6 col-sm-9 text-right wow fadeInRight">
+			<div class="col-md-6 col-sm-9 text-right wow fadeInRight ccdeep">
 				<div class="item-titles wow fadeInLeft">
-				<h2 class="bottom45 cc-light"><?php echo $manualdamarca; ?></h2>
-				<p class="cc-light"><?php echo $descricao_txt_manualdamarca; ?></p>
-			<a href="javascript:void(0)#branding" class="button defaulthole top50 cc-planos cc-light scrollings"><?php echo $btnpacotes; ?></a>
+				<h2 class="bottom45"><?php echo $manualdamarca; ?></h2>
+				<p><?php echo $descricao_txt_manualdamarca; ?></p>
+			<a href="javascript:void(0)#branding" class="button defaulthole top50 cc-planos scrollings"><?php echo $btnpacotes; ?></a>
 				</div>
 			</div>
 		</div>
@@ -314,11 +314,11 @@
 	<section class="padding grafico-bg-3 parallaxie">
 	<div class="container-fluid container-padding">
 		<div class="row">
-			<div class="col-md-6 col-sm-9 text-left wow fadeInRight">
+			<div class="col-md-6 col-sm-9 text-left wow fadeInRight ccdeep">
 				<div class="item-titles wow fadeInLeft">
-				<h2 class="bottom45 cc-light"><?php echo $artes." ".$impressas; ?></h2>
-				<p class="cc-light"><?php echo $descricao_txt_artes_impressas; ?></p>
-			<a href="javascript:void(0)#papelaria" class="button defaulthole top50 cc-planos cc-light scrollings"><?php echo $btnpacotes; ?></a>
+				<h2 class="bottom45"><?php echo $artes." ".$impressas; ?></h2>
+				<p><?php echo $descricao_txt_artes_impressas; ?></p>
+			<a href="javascript:void(0)#papelaria" class="button defaulthole top50 cc-planos scrollings"><?php echo $btnpacotes; ?></a>
 				</div>
 			</div>
 		</div>
@@ -328,11 +328,11 @@
 	<div class="container-fluid container-padding">
 		<div class="row">
 			<div class="col-md-6 col-sm-3"></div>
-			<div class="col-md-6 col-sm-9 text-right wow fadeInRight">
+			<div class="col-md-6 col-sm-9 text-right wow fadeInRight ccdeep">
 				<div class="item-titles wow fadeInLeft">
-				<h2 class="bottom45 cc-light"><?php echo $artes." ".$digitais; ?></h2>
-				<p class="cc-light"><?php echo $descricao_txt_artes_digitais; ?></p>
-			<a href="javascript:void(0)#papelaria" class="button defaulthole top50 cc-planos cc-light scrollings"><?php echo $btnpacotes; ?></a>
+				<h2 class="bottom45"><?php echo $artes." ".$digitais; ?></h2>
+				<p><?php echo $descricao_txt_artes_digitais; ?></p>
+			<a href="javascript:void(0)#papelaria" class="button defaulthole top50 cc-planos scrollings"><?php echo $btnpacotes; ?></a>
 				</div>
 			</div>
 		</div>

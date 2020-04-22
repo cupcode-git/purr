@@ -260,11 +260,11 @@
    <section class="padding websites-bg-1 parallaxie"  id="siteshome">
    <div class="container-fluid container-padding">
       <div class="row">
-         <div class="col-md-6 col-sm-9 text-left wow fadeInRight">
+         <div class="col-md-6 col-sm-9 text-left wow fadeInRight cc-dark">
             <div class="item-titles wow fadeInLeft">
-               <h2 class="bottom45 cc-light"><?php echo $websites; ?></h2>
-               <p class="cc-light"><?php echo $descsites; ?></p>
-                        <a href="javascript:void(0)#sites" class="button defaulthole top50 cc-planos cc-light scrollings"><?php echo $btnpacotes; ?></a>
+               <h2 class="bottom45 ccdeep"><?php echo $websites; ?></h2>
+               <p><?php echo $descsites; ?></p>
+                        <a href="javascript:void(0)#sites" class="button defaulthole top50 cc-planos scrollings"><?php echo $btnpacotes; ?></a>
             </div>
          </div>
       </div>
@@ -289,11 +289,11 @@
    <section class="padding websites-bg-3 parallaxie">
    <div class="container-fluid container-padding">
       <div class="row">
-         <div class="col-md-6 col-sm-9 text-left wow fadeInRight">
+         <div class="col-md-6 col-sm-9 text-left wow fadeInRight cc-dark">
             <div class="item-titles wow fadeInLeft">
-               <h2 class="bottom45 cc-light"><?php echo $lojavirtual; ?></h2>
-               <p class="cc-light"><?php echo $desclojavirtual; ?></p>
-                  <a href="javascript:void(0)#e-commerce" class="button defaulthole top50 cc-planos cc-light scrollings"><?php echo $btnpacotes; ?></a>
+               <h2 class="bottom45 ccdeep"><?php echo $lojavirtual; ?></h2>
+               <p><?php echo $desclojavirtual; ?></p>
+                  <a href="javascript:void(0)#e-commerce" class="button defaulthole top50 cc-planos scrollings"><?php echo $btnpacotes; ?></a>
             </div>
          </div>
       </div>
@@ -318,9 +318,9 @@
          <div class="col-md-6 col-sm-3"></div>
          <div class="col-md-6 col-sm-9 text-right wow fadeInRight">
             <div class="item-titles wow fadeInLeft">
-               <h2 class="bottom45 cc-light"><?php echo $hospedagens; ?></h2>
-               <p class="cc-light"><?php echo $deschospedagens; ?></p>
-                  <a href="javascript:void(0)#hospedagens" class="button defaulthole top50 cc-planos cc-light scrollings"><?php echo $btnpacotes; ?></a>
+               <h2 class="bottom45 ccdeep"><?php echo $hospedagens; ?></h2>
+               <p><?php echo $deschospedagens; ?></p>
+                  <a href="javascript:void(0)#hospedagens" class="button defaulthole top50 cc-planos scrollings"><?php echo $btnpacotes; ?></a>
             </div>
          </div>
       </div>

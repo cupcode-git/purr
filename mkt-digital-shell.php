@@ -284,14 +284,14 @@
 		</div>
 	</div>
 	</section>
-	<section class="padding marketing-bg-1 parallaxie">
+	<section class="padding marketing-bg-3 parallaxie">
 	<div class="container-fluid container-padding">
 		<div class="row">
 			<div class="col-md-6 col-sm-9 text-left wow fadeInRight">
-				<div class="item-titles wow fadeInLeft">
-				<h2 class="bottom45 cc-light"><?php echo $impulsionar; ?></h2>
-				<p class="cc-light"><?php echo $descricaotxtimpulsionar; ?></p>
-					<a href="javascript:void(0)#gerenciamento" class="button defaulthole top50 cc-planos scrollings cc-light"><?php echo $btnpacotes; ?></a>
+				<div class="item-titles wow fadeInLeft cc-dark">
+				<h2 class="bottom45 ccdeep"><?php echo $impulsionar; ?></h2>
+				<p><?php echo $descricaotxtimpulsionar; ?></p>
+					<a href="javascript:void(0)#gerenciamento" class="button defaulthole top50 cc-planos scrollings"><?php echo $btnpacotes; ?></a>
 				</div>
 		</div>
 		</div>
