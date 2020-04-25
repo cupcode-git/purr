@@ -1,7 +1,7 @@
 <?php
    include 'texts.php';
-   $title = 'criação editorial, artigos para sites e blogs - cupcode, inc.'; 
-   $description = 'A Cupcode conta com jornalistas renomeados que escrevem artigos com foco em SEO para seu site e blog, para atrair seus consumidores e clientes. Vem conferir nossos planos.'; 
+   $title = 'criação editorial, artigos para sites e blogs - Pürr - agência de marketing especializada em pets.'; 
+   $description = 'A Pürr conta com jornalistas especializados em pets, que escrevem artigos com foco em SEO para seu site e blog atrairem seus consumidores e clientes. Vem conferir nossos planos.'; 
    $keywords = 'editorial, criação, matérias, jornalistas, blog, sites, SEO';
    $csscustom = '/css/custom.css';
    include("header.php");

@@ -1,8 +1,8 @@
 <?php
 	include 'texts.php';
-	$title = 'agência de marketing digital, mídias sociais e inbound marketing - cupcode,inc.';
-	$description ='Uma agência que se preocupa com os resultados da sua empresa e emprega tecnologia para que seu investimento trabalhe por você.'; 
-	$keywords = 'marketing digital, agência, mkt, inbound, outbound, redes sociais, facebook, instagram, ads, google'; 
+	$title = 'agência de marketing digital especializada em petshops, clínicas e artigos para animais de estimação, mídias sociais e inbound marketing - Pürr.';
+	$description ='ma agência especializada em animais de estimação, cuidamos da sua marca como se fosse nosso companheiro pet, com emprego da tecnologia fazemos o seu investimento trabalhe por você.'; 
+	$keywords = 'pet, petshop, clínica, veterinária, marketing digital, agência, mkt, inbound, outbound, redes sociais, facebook, instagram, ads, google'; 
 	$csscustom = '/css/custom.css';
 	include("header.php");
 	include 'mkt-digital-shell.php';

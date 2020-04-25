@@ -140,31 +140,6 @@
                         <img src="<?php echo $parceiros15_link; ?>" alt="<?php echo $parceiros15; ?>" title="<?php echo $parceiros15; ?>">
                     </div>
                 </div>
-                <div class="swiper-slide">
-                    <div class="logo-item">
-                        <img src="<?php echo $parceiros16_link; ?>" alt="<?php echo $parceiros16; ?>" title="<?php echo $parceiros16; ?>">
-                    </div>
-                </div>
-                <div class="swiper-slide">
-                    <div class="logo-item">
-                        <img src="<?php echo $parceiros17_link; ?>" alt="<?php echo $parceiros17; ?>" title="<?php echo $parceiros17; ?>">
-                    </div>
-                </div>
-                <div class="swiper-slide">
-                    <div class="logo-item">
-                        <img src="<?php echo $parceiros18_link; ?>" alt="<?php echo $parceiros18; ?>" title="<?php echo $parceiros18; ?>">
-                    </div>
-                </div>
-                <div class="swiper-slide">
-                    <div class="logo-item">
-                        <img src="<?php echo $parceiros19_link; ?>" alt="<?php echo $parceiros19; ?>" title="<?php echo $parceiros19; ?>">
-                    </div>
-                </div>
-                <div class="swiper-slide">
-                    <div class="logo-item">
-                        <img src="<?php echo $parceiros20_link; ?>" alt="<?php echo $parceiros20; ?>" title="<?php echo $parceiros20; ?>">
-                    </div>
-                </div>
             </div>
         </div>
     </div>

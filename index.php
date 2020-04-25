@@ -1,8 +1,8 @@
 <?php
     include("texts.php");
-    $title = 'agência de marketing digital, criação de websites, artes graficas e editoriais - cupcode, inc.';
-    $description = 'Uma agência diferenciada em todos os sentidos, fazemos seu investimento trabalhar por você, para que crescendo juntos, tenhamos mais resultados no agora e no futuro.';
-    $keywords = 'agência de marketing, digital, criação, sites, loja virtual, editorial, papelaria, branding';
+    $title = 'agência de marketing digital especializada em petshops, clínicas e artigos para animais de estimação, criação de websites, artes graficas e editoriais - Pürr.';
+    $description = 'Uma agência especializada em animais de estimação, cuidamos da sua marca como se fosse nosso companheiro pet, oferecendo sempre os melhores serviços para levar seu petshop, clínica veterinária ou empresa de artigos para bichinhos de estimação.';
+    $keywords = 'pet, petshop, clínica, veterinária, agência de marketing, digital, criação, sites, loja virtual, editorial, papelaria, branding';
 	$csscustom = '/css/custom.css';
     include("header.php");
     include("index-shell.php");
