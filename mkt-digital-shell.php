@@ -435,7 +435,7 @@
 				<h4 class="heading-titlenovo bottom15"><?php echo $mktdigital; ?></h4>
 					<h3 class="bottom15"><?php echo $pacote; ?></h3>
 					<div class="ammount">
-							<h2><?php echo $ristreto; ?></h2>
+							<h2><?php echo $pacote_mkt_1; ?></h2>
 					</div>
 				</div>
 				<ul class="top15 pdb-65">
@@ -452,7 +452,7 @@
 				<h4 class="heading-titlenovo bottom15"><?php echo $mktdigital; ?></h4>
 					<h3 class="bottom15"><?php echo $pacote; ?></h3>
 					<div class="ammount">
-							<h2><?php echo $lungo; ?></h2>
+							<h2><?php echo $pacote_mkt_2; ?></h2>
 					</div>
 				</div>
 				<ul class="top15">

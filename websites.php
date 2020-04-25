@@ -1,8 +1,8 @@
 <?php
     include 'texts.php';
-    $title = 'criação de websites, loja virtual e-commerce e blogs - cupcode, inc.';
-    $description = 'Tenha seu site próprio em até 5 dias! Veja como é fácil e rápido ter sua casa na internet, seja ela um site, blog ou até mesmo uma loja virtual.';
-    $keywords = 'website, site, loja virtual, e-commerce, vender, internet, como, fazer, loja';
+    $title = 'agência de marketing digital especializada em petshops, clínicas e artigos para animais de estimação, criação de websites, loja virtual e-commerce e blogs - Pürr.';
+    $description = 'Tenha seu site pet pronto em até 5 dias! Veja como é fácil e rápido ter sua clínica ou petshop na internet, seja ela um site, blog ou até mesmo uma loja petshop virtual.';
+    $keywords = 'pet, petshop, clínica, veterinário, website, site, loja virtual, e-commerce, vender, internet, como, fazer, loja';
     $csscustom = '/css/custom.css';
     include("header.php");
     include "websites-shell.php";

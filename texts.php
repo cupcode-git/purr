@@ -3,7 +3,7 @@
   /*=================================================================
                         Títulos para o site todo
     ===================================================================*/
-    $sitename = "cupcode";
+    $sitename = "pürr";
     $home = "home";
     $marketing = "marketing";
     $digital = "digital";
@@ -49,8 +49,8 @@
     $emailmarketing = "e-mail marketing";
     $pacote = "pacote";
     $pacotes = "pacotes";
-    $ristreto = "ristreto";
-    $lungo = "lungo";
+    $pacote_mkt_1 = "filhote";
+    $pacote_mkt_2 = "adulto";
     $personalizado = "personalizado";
     $contato = "contato";
     $copyright = "copyright &copy;";
@@ -62,7 +62,7 @@
     $btnplanos = "ver planos";
     $planos = "planos";
     $plano = "plano";
-    $slogan = "faça seu investimento, trabalhar por você.";
+    $slogan = "agência de marketing especializada em petshops, clínicas e artigos veterinários.";
     $solicorca = "solicitar orçamento";
     $tirarduvsobre = "tirar dúvidas sobre";
     $para = "para";
@@ -77,14 +77,14 @@
     $digitefone = "digite seu telefone";
     $digitemensagem = "digite sua mensagem";
     $fone_link = "tel:+554133196071";
-    $ligar = "ligar para a cupcode";
+    $ligar = "ligar para a pürr";
     $ccfone = "(41) 3319-6071";
-    $contatoemail = "contato@cupcode.com.br";
+    $contatoemail = "contato@purr.com.br";
     $enviaremail = "envie um email";
     $mensagemwhatsapp = "mensagem via whatsapp";
-    $mensagemwhatsapp_link = "https://api.whatsapp.com/send?phone=554133196071&amp;text=Olá,%20estou%20entrando%20em%20contato%20através%20do%20site%20Cupcode%20,%20para%20saber%20mais%20sobre,...%20";
+    $mensagemwhatsapp_link = "https://api.whatsapp.com/send?phone=554133196071&amp;text=Olá,%20estou%20entrando%20em%20contato%20através%20do%20site%20pürr%20,%20para%20saber%20mais%20sobre,...%20";
     $mensagemfacebook = "mensagem via facebook";
-    $mensagemfacebook_link = "https://www.facebook.com/cupcodeinc/?eid=ARBbUKiPtskmE346RlMKgnoE-eHG5I9sTwgyVRpKZOX1WuA6Q3jZR5swNOxdd95UkfCvheln7Qhcp1Jk";
+    $mensagemfacebook_link = "https://www.facebook.com/pürrinc/?eid=ARBbUKiPtskmE346RlMKgnoE-eHG5I9sTwgyVRpKZOX1WuA6Q3jZR5swNOxdd95UkfCvheln7Qhcp1Jk";
 
     /*-----------------------------------------------------------------
                               Parceiros
@@ -92,67 +92,67 @@
 
     $$parceiros_titulo = "nossos parceiros";
 
-    $parceiros1 = "Click A50";
+    $parceiros1 = "MiAu-Au Amigo Pet - Petshop";
     $parceiros1_link = "images/parceiros-1.png";
 
-    $parceiros2 = "Grupo A50 de Comunicão";
+    $parceiros2 = "Clínica Lady Bird";
     $parceiros2_link = "images/parceiros-2.png";
 
-    $parceiros3 = "Barbearia Visconde";
+    $parceiros3 = "Nina & Stan";
     $parceiros3_link = "images/parceiros-3.png";
     
-    $parceiros4 = "Barbearia Visconde Glaser";
+    $parceiros4 = "AnimalCare - Clínica Veterinária";
     $parceiros4_link = "images/parceiros-4.png";
 
-    $parceiros5 = "[[ L R M c K ]]";
+    $parceiros5 = "Vida Animal - Clínica Veterinária";
     $parceiros5_link = "images/parceiros-5.png";
 
-    $parceiros6 = "Discovery Channell";
+    $parceiros6 = "Camaleão - Petshop dos répteis";
     $parceiros6_link = "images/parceiros-6.png";
 
-    $parceiros7 = "A50 TV";
+    $parceiros7 = "Petshop Bom Garoto";
     $parceiros7_link = "images/parceiros-7.png";
 
-    $parceiros8 = "WEC - World Entertainment Corporation";
+    $parceiros8 = "Parrot - Aviário Shop";
     $parceiros8_link = "images/parceiros-8.png";
 
-    $parceiros9 = "Paulina Fotografias";
+    $parceiros9 = "Doutor Cão - Medicina Veterinária";
     $parceiros9_link = "images/parceiros-9.png";
 
-    $parceiros10 = "Bar do Sival";
+    $parceiros10 = "CatDog - Brinquedos e Diversão";
     $parceiros10_link = "images/parceiros-10.png";
 
-    $parceiros11 = "Pomada Rabo de Galo";
+    $parceiros11 = "Sr. Patinhas Petshop";
     $parceiros11_link = "images/parceiros-11.png";
 
-    $parceiros12 = "Estúdio TattooZasso";
+    $parceiros12 = "Hospital Vet Vita - Hospital Veterinário";
     $parceiros12_link = "images/parceiros-12.png";
 
-    $parceiros13 = "UOL - Universo Online";
+    $parceiros13 = "Do Dog - Comida e Acessórios";
     $parceiros13_link = "images/parceiros-13.png";
 
-    $parceiros14 = "Elitrônicos";
+    $parceiros14 = "Hotel Pethouses - Hotel Veterinário";
     $parceiros14_link = "images/parceiros-14.png";
 
-    $parceiros15 = "HowStuffWorks";
+    $parceiros15 = "Lili & Dinda - Moda Pet";
     $parceiros15_link = "images/parceiros-15.png";
 
-    $parceiros16 = "SITA Aero";
+    $parceiros16 = "";
     $parceiros16_link = "images/parceiros-16.png";
 
-    $parceiros17 = "O Boticário";
+    $parceiros17 = "";
     $parceiros17_link = "images/parceiros-17.png";
 
-    $parceiros18 = "CINQ Technologies";
+    $parceiros18 = "";
     $parceiros18_link = "images/parceiros-18.png";
 
-    $parceiros19 = "Renault";
+    $parceiros19 = "";
     $parceiros19_link = "images/parceiros-19.png";
 
-    $parceiros20 = "Diego Tragel";
+    $parceiros20 = "";
     $parceiros20_link = "images/parceiros-20.png";
     
-    $parceiros21 = "Vinicius Mottin Fotografias";
+    $parceiros21 = "";
     $parceiros21_link = "images/parceiros-21.png";
 
     /*=================================================================
@@ -162,26 +162,26 @@
                               Boxes index
     -----------------------------------------------------------------*/
 
-    $boxtxtsociais = "nossa equipe é treinada para tirar o melhor das redes sociais, vamos disponibilizar seu conteúdo para quem realmente precisa dele, diminuindo custos com posts impulsionados ou patrocinados ao agirmos de forma orgânica. além da retenção e manutenção constante dos seus clientes e seguidores,  utilização do Facebook Pixel e muito mais.";
-    $boxtxtanuncios = "para investir em anúncios hoje em dia e não perder dinheiro conquistando apenas curtidas, precisa-se ter muito conhecimento, estratégia e uma equipe focada em converter investimento em leads e clientes, e isso a cupcode tem! nós literalmente vamos fazer seu investimento trabalhar por você.";
-    $boxtxtsites = "não basta ter uma página na internet, você precisa ter um site funcional e \"visível\" aos mecanismos de buscas como o Google, Bing e outros mecanismos de pesquisa. Aqui na <strong>cupcode</strong>, temos especialistas que fazem sites dinâmicos, que chama a atenção e atraem clientes. sabemos exatamente o que seu cliente procura e nós oferecemos isso a ele, seu site de forma fácil e atraente para realmente mantê-lo na sua página. unidos a redes sociais, notícias que importam e conteúdo relevante que levam seu cliente a te procurar em busca de serviços e produtos, fazemos sites responsivos que se adaptam em todos os tamanhos de tela seja ela gigante ou uma tela tão pequena quanto a de seu celular, aproveitando o melhor de cada dispositivo.";
-    $boxtxthost = "não faltará terreno para sua casa, servidores de alto desempenho para seu site ficar sempre online, com performance de ponta e baixo custo, nossa hospedagem é até 10 vezes mais rápida que as hospedagens padrões e o melhor de tudo, você não se preocupa com absolutamente nada, pois toda a configuração e manutenção está sobre nossa responsabilidade. você só relaxa e aproveita seus clientes.";
-    $boxtxtbranding = "quer você tenha um logotipo que quer mudar ou melhorar, ou até mesmo esteja precisando de um novo, podemos fazer logo, manual da marca, paleta de cores, tipografia e tudo o que você precisa para sua identidade visual.";
-    $boxtxtpapelaria = "criamos sua arte para impressão ou digital, quer você precise de um cartão de visita, flyer, folder, sacola, cardápio, materiais de escritório, publicidade para jornais e revistas, catálogo, banner, outdoor ou qualquer outra arte, com alta qualidade e design que respeita sua identidade visual.";
-    $boxtxtadapseo = "adaptamos seu texto para tirar o melhor proveito nas pesquisas do google e outros mecanismos de buscas, elevando seu conteúdo as primeiras páginas nas pesquisas.";
-    $boxtxtcriaedit = "nós produziremos matérias com foco em SEO para melhorar o posicionamento no raking do google e outros mecanismos de buscas na internet, para colocar seu site nas primeiras páginas das pesquisas, com conteúdo escrito por especialistas no assunto, escreveremos artigos e matérias exclusivas para sua empresa, artigos com conteúdo relevante e específicos da sua área de atuação.";
+    $boxtxtsociais = "nossa equipe é treinada para tirar o melhor das redes sociais, vamos disponibilizar seu conteúdo para quem realmente pode ser seu cliente, diminuindo custos com posts impulsionados ou patrocinados ao agirmos de forma orgânica, além da retenção e manutenção constante dos seus clientes e seguidores, utilização do Facebook Pixel e muito mais.";
+    $boxtxtanuncios = "para investir em anúncios hoje em dia e não perder dinheiro conquistando apenas curtidas, precisa-se ter muito conhecimento, estratégia e uma equipe focada em converter investimento em leads e clientes, e isso a pürr tem! nós literalmente vamos fazer seu investimento trabalhar por você.";
+    $boxtxtsites = "não basta ter uma página na internet, você precisa ter um site funcional e \"visível\" aos mecanismos de buscas como o Google, Bing e outros mecanismos de pesquisa. aqui na <strong>pürr</strong>, temos especialistas que fazem sites dinâmicos, que chama a atenção e atraem clientes. sabemos exatamente o que seu cliente procura e nós oferecemos isso a ele, seu site de forma fácil e atraente para que ele o leve até você. unidos a redes sociais, notícias que importam e conteúdo relevante que levam seu cliente a te procurar em busca de produtos e serviços que você estará oferecendo em sua página. fazemos sites responsívos que se adaptam em todos os tamanhos de tela seja ela gigante ou uma tela tão pequena quanto a de seu celular, aproveitando o melhor de cada dispositivo.";
+    $boxtxthost = "não faltará campo para os pets brigarem por território! servidores de alto desempenho para seu site ficar sempre online, com performance de ponta e baixo custo, nossa hospedagem é até 10 vezes mais rápida que as hospedagens padrões e o melhor de tudo, você não se preocupa com absolutamente nada, pois toda a configuração e manutenção está sobre nossa responsabilidade. você só relaxa e aproveita seus clientes e os pets deles.";
+    $boxtxtbranding = "quer você tenha uma logo que quer mudar ou melhorar, ou até mesmo esteja precisando de uma nova, podemos fazer logotipo, manual da marca, paleta de cores, tipografia e tudo o que você precisa para a identidade visual de seu pet shop.";
+    $boxtxtpapelaria = "criamos sua arte para impressão ou digital, quer você precise de um cartão de visita, flyer, folder, sacola, cardápio, comandas, publicidade para jornais e revistas, uniformes, banner, outdoor ou qualquer outra arte, com alta qualidade e design que respeita a identidade visual de seu pet shop.";
+    $boxtxtadapseo = "adaptamos seus textos para tirarem o melhor proveito nas pesquisas do google e outros mecanismos de buscas, elevando seu conteúdo as primeiras páginas nas pesquisas.";
+    $boxtxtcriaedit = "nós produziremos matérias de animais de estimação, com cuidaos, dicas e respostas a perguntas que todos se perguntam com foco em SEO para melhorar o posicionamento no raking do google e outros mecanismos de buscas na internet, para colocar seu site nas primeiras páginas das pesquisas, com conteúdo escrito por especialistas no assunto, escreveremos artigos e matérias exclusivas para seu pet shop, artigos com conteúdo relevante e específicos sobre o mundo animal.";
 
     /*-----------------------------------------------------------------
                         Resumos dos boxes index
     -----------------------------------------------------------------*/
     $resumotxtsociais = "postagens, gerenciamento de conteúdo, comunicação e indução ao engajamento com clientes.";
     $resumotxtanuncios = "anunciamos com inteligência para você ter o melhor retorno de seu investimento.";
-    $resumotxtsites = "criamos seu site, blog ou loja virtual de forma responsiva e intuitiva, leve e de fácil navegação.";
-    $resumotxthost = "temos a melhor configuração para sua empresa ter um site confiável, estável e funcional.";
+    $resumotxtsites = "criamos seu site ou blog de forma responsiva e intuitiva, leve e de fácil navegação que até os clientes pets vão se gostar!";
+    $resumotxthost = "temos a melhor configuração para seu pet shop ou clínica veterinária ter um site confiável, estável e funcional.";
     $resumotxtbranding = "construímos toda a sua identidade visual, desde o logotipo até manual da marca.";
     $resumotxtpapelaria = "fazemos todas suas lâminas para impressão ou digital, com qualidade e inteligência.";
     $resumotxtadapseo = "adaptamos seu artigo para ser melhor visto por mecanismos de buscas na internet.";
-    $resumotxtcriaedit = "criação de conteúdo editorial, com foco em SEO, colocando seu site nas primeiras páginas do google.";
+    $resumotxtcriaedit = "criação de conteúdo editorial para pet shops, com foco em SEO, colocando seu site nas primeiras páginas do google.";
 
     /*-----------------------------------------------------------------
                             Portfolio
@@ -307,8 +307,8 @@
     $descricaotxtpost = "produzimos posts bem elaborados com conteúdos divertidos, sérios, emocionantes e envolventes que debatemos estrategicamente para levar a seu público o que você realmente quer passar.";
     $descricaotxtimpulsionar = "não basta angariar curtidas e reações, na verdade esse é o principal ralo de dinheiro nas redes sociais, definir seu público-alvo, gerar leads e converter os leads em clientes é nossa especialidade.";
     $descricaotxtgoogleads = "produzimos e gerenciamos os melhores anúncios para serem exibidos em outros sites pela internet. nossos profissionais analisam todos os dados em tempo real e fazem as modificações necessárias para que seu investimento produza um grande retorno.";
-    $descricaotxtfacebookads = "anunciar em redes sociais, é hoje, onde as empresas desperdiçam o maior volume de dinheiro. aqui na cupcode, agimos estrategicamente para garantir que o público alvo seja aquele que tem interesse pelos seus produtos/serviços e que você não pague apenas por likes.";
-    $descricaotxtseo = "a <strong>cupcode</strong> tem a garantia de que seu site estará nas primeiras páginas do google e outros buscadores, isso é possível por que somos especialistas em SEO de forma orgânica, trabalhando não só textos, mas posicionamento de itens e elementos para elevar seu site no ranking das pesquisas.";
+    $descricaotxtfacebookads = "anunciar em redes sociais, é hoje, onde as empresas desperdiçam o maior volume de dinheiro. aqui na pürr, agimos estrategicamente para garantir que o público alvo seja aquele que tem interesse pelos seus produtos/serviços e que você não pague apenas por likes.";
+    $descricaotxtseo = "a <strong>pürr</strong> tem a garantia de que seu site estará nas primeiras páginas do google e outros buscadores, isso é possível por que somos especialistas em SEO de forma orgânica, trabalhando não só textos, mas posicionamento de itens e elementos para elevar seu site no ranking das pesquisas.";
     $descricaotxtkpi = "com o kpi coletamos os dados de desempenho do seu negócio e depois de analisarmos vamos auxiliar com metas e formas de melhorar os resultados de sua empresa, sempre mantendo seu desempenho positivo.";
     $descricaotxtemailmarketing = "podemos fazer propagandas com e-mail marketing, anunciando promoções, itens novos ou conteúdo de interesse do seu público-alvo, evitando que seus e-mails virem spam, com uma boa conduta, sempre respeitando os seus clientes.";
     $descricaotxtpctpersonalizado = "quer um pacote para chamar de seu? criamos um pacote do seu jeito para suprir as suas necessidades. entre em contato agora mesmo e solicite uma personalização.";
@@ -504,22 +504,22 @@
     ------------------------------------------------------------------*/
     $testimonial_title = "o que dizem nossos clientes";
 
-    $testimonial1 = "um serviço prático, pessoal e versátil que entrega tudo com desenvoltura, que entendeu bem o que eu queria, além de me oferecer coisas que eu nem conhecia e dá um ótimo suporte. já trabalhei com várias empresas de marketing, mas a <strong>cupcode</strong> é a única que eu vi resultados.";
-    $testimonial_client1 = "Raquel Brandalise";
-    $testimonial_position1 = "Co-fundadora do";
-    $testimonial_link1 = "http://www.pomadarabodegalo.com.br";
-    $testimonial_company1 = "Pomadas Rabo de Galo";
+    $testimonial1 = "a <strong>pürr</strong> é única, minha experiência com eles é tão boa que dura até hoje, por anos, eles nos elevam fazendo absolutamente TUDO pela marca Ninba & Stan, eles nos guiam, e se encarregam de tudo, pelo fato de eu ter muitas coisas a fazer, eu não tenho tempo para cuidar do marketing, editorial, pré e pós vendas, redes sociais, papelaria e todo o resto... Mas nem preciso pois eles dão conta disso tudo e muito mais, simplesmente a melhor parceria.";
+    $testimonial_client1 = "Lauro Roger McAllister";
+    $testimonial_position1 = "Co-fundador do";
+    $testimonial_link1 = "http://www.ninaestan.com.br";
+    $testimonial_company1 = "Nina & Stan";
     
-    $testimonial2 = "com muita paciência e competência, a <strong>cupcode</strong> me ajudou em tudo, não só na distribuição de conteúdos, divulgação das minhas músicas, mas também na confecção das capas dos meus singles e na criação de todo o meu site. super recomendo!";
-    $testimonial_client2 = "Diego Tragel";
-    $testimonial_position2 = "Músico, site";
-    $testimonial_link2 = "http://www.diegotragel.com.br";
-    $testimonial_company2 = "Diego Tragel";
+    $testimonial2 = "eu vivia precisando fazer tudo isso, nunca tinha tempo, a <strong>pürr</strong> me ajudou em tudo. já passei por inumeras agencias de marketing que me ofereceram milhoes de coisas, a única que foi sincera e realmente se preocupa com o cliente e entende tudo sobre minha clinica é a pürr. eles nos visitam, nos pergunta como estamos, nos dão dicas em como melhorar... estou muito grata por ter a pürr ao nosso lado.";
+    $testimonial_client2 = "Denise Schmoller";
+    $testimonial_position2 = "Proprietária do";
+    $testimonial_link2 = "";
+    $testimonial_company2 = "Clínica Lady Bird";
 
-    $testimonial3 = "eu tinha um nome da loja e era apenas escrita, a <strong>cupcode</strong>, depois de uma reunião comigo, fizeram todo o branding da loja, mudamos o nome, para um bem melhor, sem sair do que eu queria, além de dar vida a minha marca. fizeram minha loja virtual e hoje todo meu trabalho de redes sociais e papelaria são com eles, e não pretendo mudar tão cedo!";
-    $testimonial_client3 = "Eliezer Couto";
+    $testimonial3 = "sempre que preciso, e preciso quase todos os dias, a <strong>pürr</strong> faz todas as artes das redes sociais e ainda cuida de nosso ads, o retorno veio em menos de um mês com resultados muito positivos, e a pürr sabe manter o bom desempenho, sempre nos aconselhando e sugerindo itens e melhorias. Super recomendo.";
+    $testimonial_client3 = "Mathews Eisvogel";
     $testimonial_position3 = "Fundador do";
-    $testimonial_link3 = "http://www.elitronicos.com.br";
-    $testimonial_company3 = "Elitrônicos";
+    $testimonial_link3 = "";
+    $testimonial_company3 = "Lili & Dinda - Moda Pet";
 
    ?>
